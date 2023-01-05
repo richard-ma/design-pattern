@@ -1,0 +1,31 @@
+from shape import Shape
+from circle import Circle
+from square import Square
+from rectagle import Rectagle
+
+
+class ShapeFactory():
+    def get_shape(self, shape_type: str) -> "Shape":
+        if shape_type is None:
+            raise TypeError("shape_type is not string: ", shape_type)
+
+        shape_type = shape_type.lower()
+        if (shape_type == 'circle'):
+            return Circle()
+        elif (shape_type == 'square'):
+            return Square()
+        elif (shape_type == 'rectagle'):
+            return Rectagle()
+        else:
+            raise TypeError("shape_type not found: ", shape_type)
+
+
+if __name__ == "__main__":
+    shapeFactory = ShapeFactory()
+
+    shape = shapeFactory.get_shape('circle')
+    shape.draw()
+    shape = shapeFactory.get_shape('square')
+    shape.draw()
+    shape = shapeFactory.get_shape('rectagle')
+    shape.draw()
