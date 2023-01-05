@@ -1,11 +1,11 @@
 from shape import Shape
 
 
-class Rectagle(Shape):
+class Rectangle(Shape):
     def draw(self):
-        print("Rectagle::draw()")
+        print("Rectangle::draw()")
 
 
 if __name__ == "__main__":
-    shape = Rectagle()
+    shape = Rectangle()
     shape.draw()

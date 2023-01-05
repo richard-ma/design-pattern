@@ -1,7 +1,7 @@
 from shape import Shape
 from circle import Circle
 from square import Square
-from rectagle import Rectagle
+from rectangle import Rectangle
 
 
 class ShapeFactory():
@@ -14,8 +14,8 @@ class ShapeFactory():
             return Circle()
         elif (shape_type == 'square'):
             return Square()
-        elif (shape_type == 'rectagle'):
-            return Rectagle()
+        elif (shape_type == 'rectangle'):
+            return Rectangle()
         else:
             raise TypeError("shape_type not found: ", shape_type)
 
@@ -27,5 +27,5 @@ if __name__ == "__main__":
     shape.draw()
     shape = shapeFactory.get_shape('square')
     shape.draw()
-    shape = shapeFactory.get_shape('rectagle')
+    shape = shapeFactory.get_shape('rectangle')
     shape.draw()
