@@ -10,5 +10,13 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 建造者 Builder
     * 原型 Prototype
 * 结构型模式
+    * 适配器 Adapter
+    * 桥接 Bridge
+    * 过滤器 Filter、Criteria
+    * 组合 Composite
+    * 装饰器 Decorator
+    * 外观 Facade
+    * 享元 Flyweight
+    * 代理 Proxy
 * 行为型模式
 * J2EE模式
