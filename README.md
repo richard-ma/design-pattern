@@ -15,7 +15,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 过滤器 Filter、Criteria (demo.py)
     * 组合 Composite (employee.py)
     * 装饰器 Decorator (redshapedecorator.py)
-    * 外观 Facade
+    * 外观 Facade (shapemaker.py)
     * 享元 Flyweight
     * 代理 Proxy
 * 行为型模式
