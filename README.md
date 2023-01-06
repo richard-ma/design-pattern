@@ -19,4 +19,16 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 享元 Flyweight (demo.py)
     * 代理 Proxy (proxyimage.py)
 * 行为型模式
+    * 责任链 Chain of Responsibility
+    * 命令 Command
+    * 解释器 Interpreter
+    * 迭代器 Iterator
+    * 中介者 Mediator
+    * 备忘录 Memento
+    * 观察者 Observer
+    * 状态 State
+    * 空对象 Null Object
+    * 策略 Strategy
+    * 模板 Template
+    * 访问者 Visitor
 * J2EE模式
