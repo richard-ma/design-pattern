@@ -20,7 +20,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 代理 Proxy (proxyimage.py)
 * 行为型模式
     * 责任链 Chain of Responsibility (demo.py)
-    * 命令 Command
+    * 命令 Command (broker.py)
     * 解释器 Interpreter
     * 迭代器 Iterator
     * 中介者 Mediator
