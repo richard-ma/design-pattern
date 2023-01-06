@@ -17,6 +17,6 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 装饰器 Decorator (redshapedecorator.py)
     * 外观 Facade (shapemaker.py)
     * 享元 Flyweight (demo.py)
-    * 代理 Proxy
+    * 代理 Proxy (proxyimage.py)
 * 行为型模式
 * J2EE模式
