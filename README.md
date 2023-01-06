@@ -4,11 +4,11 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
 
 设计模式分类：
 * 创建型模式
-    * 工厂模式 Factory
-    * 抽象工厂 Abstract Factory
-    * 单例 Singleton
-    * 建造者 Builder
-    * 原型 Prototype
+    * 工厂模式 Factory (shapefactory.py)
+    * 抽象工厂 Abstract Factory (factoryproducer.py)
+    * 单例 Singleton (singleton{1-4}.py)
+    * 建造者 Builder (mealbuilder.py)
+    * 原型 Prototype (shapecache.py)
 * 结构型模式
     * 适配器 Adapter
     * 桥接 Bridge
