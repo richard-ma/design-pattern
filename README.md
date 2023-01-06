@@ -10,7 +10,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 建造者 Builder (mealbuilder.py)
     * 原型 Prototype (shapecache.py)
 * 结构型模式
-    * 适配器 Adapter
+    * 适配器 Adapter (audioplayer.py)
     * 桥接 Bridge
     * 过滤器 Filter、Criteria
     * 组合 Composite
