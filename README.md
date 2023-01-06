@@ -19,7 +19,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 享元 Flyweight (demo.py)
     * 代理 Proxy (proxyimage.py)
 * 行为型模式
-    * 责任链 Chain of Responsibility
+    * 责任链 Chain of Responsibility (demo.py)
     * 命令 Command
     * 解释器 Interpreter
     * 迭代器 Iterator
