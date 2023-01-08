@@ -22,7 +22,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 责任链 Chain of Responsibility (demo.py)
     * 命令 Command (broker.py)
     * 解释器 Interpreter (demo.py)
-    * 迭代器 Iterator
+    * 迭代器 Iterator (namerepository.py)
     * 中介者 Mediator
     * 备忘录 Memento
     * 观察者 Observer
