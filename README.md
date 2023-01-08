@@ -24,7 +24,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 解释器 Interpreter (demo.py)
     * 迭代器 Iterator (namerepository.py)
     * 中介者 Mediator (demo.py)
-    * 备忘录 Memento
+    * 备忘录 Memento (demo.py)
     * 观察者 Observer
     * 状态 State
     * 空对象 Null Object
