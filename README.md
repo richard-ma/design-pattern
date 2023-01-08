@@ -23,7 +23,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 命令 Command (broker.py)
     * 解释器 Interpreter (demo.py)
     * 迭代器 Iterator (namerepository.py)
-    * 中介者 Mediator
+    * 中介者 Mediator (demo.py)
     * 备忘录 Memento
     * 观察者 Observer
     * 状态 State
