@@ -26,7 +26,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 中介者 Mediator (demo.py)
     * 备忘录 Memento (demo.py)
     * 观察者 Observer (demo.py)
-    * 状态 State
+    * 状态 State (demo.py)
     * 空对象 Null Object
     * 策略 Strategy
     * 模板 Template
