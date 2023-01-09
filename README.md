@@ -30,5 +30,5 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 空对象 Null Object (demo.py)
     * 策略 Strategy (demo.py)
     * 模板 Template (demo.py)
-    * 访问者 Visitor
+    * 访问者 Visitor (demo.py)
 * J2EE模式
