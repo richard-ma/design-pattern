@@ -32,3 +32,11 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 模板 Template (demo.py)
     * 访问者 Visitor (demo.py)
 * J2EE模式
+    * MVC MVC
+    * 业务代表 Business Delegate
+    * 组合实体 Composite Entity
+    * 数据访问对象 Data Access Object
+    * 前端控制器 Front Controller
+    * 拦截过滤器 Intercepting Filter
+    * 服务定位器 Service Locator
+    * 传输对象 Transfer Object
