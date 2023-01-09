@@ -27,7 +27,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 备忘录 Memento (demo.py)
     * 观察者 Observer (demo.py)
     * 状态 State (demo.py)
-    * 空对象 Null Object
+    * 空对象 Null Object (demo.py)
     * 策略 Strategy
     * 模板 Template
     * 访问者 Visitor
