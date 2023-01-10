@@ -35,7 +35,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * MVC MVC (studentcontroller.py)
     * 业务代表 Business Delegate (demo.py)
     * 组合实体 Composite Entity (demo.py)
-    * 数据访问对象 Data Access Object
+    * 数据访问对象 Data Access Object (studentdaoimpl.py)
     * 前端控制器 Front Controller
     * 拦截过滤器 Intercepting Filter
     * 服务定位器 Service Locator
