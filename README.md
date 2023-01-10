@@ -32,7 +32,7 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 模板 Template (demo.py)
     * 访问者 Visitor (demo.py)
 * J2EE模式
-    * MVC MVC
+    * MVC MVC (studentcontroller.py)
     * 业务代表 Business Delegate
     * 组合实体 Composite Entity
     * 数据访问对象 Data Access Object
