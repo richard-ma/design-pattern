@@ -38,5 +38,5 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 数据访问对象 Data Access Object (studentdaoimpl.py)
     * 前端控制器 Front Controller (demo.py)
     * 拦截过滤器 Intercepting Filter (demo.py)
-    * 服务定位器 Service Locator
+    * 服务定位器 Service Locator (demo.py)
     * 传输对象 Transfer Object
