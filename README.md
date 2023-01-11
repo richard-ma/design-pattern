@@ -39,4 +39,4 @@ https://www.runoob.com/design-pattern/design-pattern-tutorial.html
     * 前端控制器 Front Controller (demo.py)
     * 拦截过滤器 Intercepting Filter (demo.py)
     * 服务定位器 Service Locator (demo.py)
-    * 传输对象 Transfer Object
+    * 传输对象 Transfer Object (demo.py)
